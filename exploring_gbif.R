@@ -1,6 +1,7 @@
 ####################################
 ##exploring rgbif
 ##potential ways to explore data from rgbif
+##using rgbif package in r
 ########################
 
 install.packages("rgbif")  # Install the package
