@@ -1,5 +1,6 @@
 ####################################
 ##exploring rgbif
+##potential ways to explore data from rgbif
 ########################
 
 install.packages("rgbif")  # Install the package
